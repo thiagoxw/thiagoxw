@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @thiagoxw
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @draggg
+- 👀 I’m interested in python, javascript, PhD
+- 🌱 I’m currently learning node js, information security
+- 💞️ I’m looking to collaborate on python, HTML, javascript
+- 📫 How to reach me 45° 24' 00" N 75° 40' 00" O
 
 <!---
 thiagoxw/thiagoxw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
